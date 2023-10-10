@@ -1,1 +1,1 @@
-# WerewolfPython
+# Werewolf.py
